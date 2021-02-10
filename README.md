@@ -2,7 +2,7 @@
 This is a simple true/false quiz game. It was built following a tutorial
 from the App Brewery. 
 
-###Topics Covered
+### Topics Covered
 * design patterns -MVC
 * prgorammatically changing UI elements
 * reference type objects vs. value type objects
